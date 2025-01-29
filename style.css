@@ -62,6 +62,7 @@ body{
     height:403px;
     width: 252px; 
     display: inline-block;
+    border-radius: 2px;
     margin-left: 20px;
     transition: transform 0.3s ease;
     filter: grayscale(100%);
